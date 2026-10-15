@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Card Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 1542,
+      "bodyTextHash": "74ba5da4d52c10c7e8faf3903e9fe63e7640de0620bdb055aa7a6a9b2decafd6",
+      "bodyTextPrefix": "Card Studio O card, sem a tarja A capa vertical preenche o quadr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Card Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 1542,
+      "bodyTextHash": "74ba5da4d52c10c7e8faf3903e9fe63e7640de0620bdb055aa7a6a9b2decafd6",
+      "bodyTextPrefix": "Card Studio O card, sem a tarja A capa vertical preenche o quadr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Card Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 1501,
+      "bodyTextHash": "6561c8a43a39d508f7e7b9e5a34d7688dd314aa35be58262fd41337e6ba8889b",
+      "bodyTextPrefix": "Card Studio O card, no formato da capa Capa 720×404 em object-co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/covers-720.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Card Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 1501,
+      "bodyTextHash": "6561c8a43a39d508f7e7b9e5a34d7688dd314aa35be58262fd41337e6ba8889b",
+      "bodyTextPrefix": "Card Studio O card, no formato da capa Capa 720×404 em object-co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/covers-720-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/covers-720.json"
+}
